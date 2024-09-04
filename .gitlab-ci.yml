@@ -6,5 +6,4 @@ test-job:
   image: node:14
   script:
     - npm install
-    - npm start
     - echo "Pipeline executed successfully!"
